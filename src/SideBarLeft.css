@@ -1,0 +1,89 @@
+#barleftcontainer{
+    width: 225px;
+    border-right: 3px solid rgba(128, 128, 128, 0.144);
+    height: 100vh;
+}
+
+#itemsContainer{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#usercontainer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    transition: all 0.2s;
+    cursor: pointer;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+#usercontainer:hover{
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+#userName {
+    font-family: Bold;
+    color: #303E65;
+    font-size: 20px;
+}
+
+.userIMG {
+    width: 12.5%;
+    height: 12.5%;
+    padding-right: 20px;
+    fill: #303E65;
+    filter: invert(23%) sepia(12%) saturate(2406%) hue-rotate(187deg) brightness(91%) contrast(90%);
+}
+
+.TabTitleContainer{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.TabContainerTitle {
+    color: #8e9cafc5;
+    font-family: Bold;
+    font-size: 18px;
+}
+
+.LeftTabButtonContainer{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    transition: all 0.2s;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.LeftTabButtonContainer:hover{
+    background-color: rgba(0, 0, 0, 0.075);
+}
+
+.LeftTabActive img{
+    filter: invert(26%) sepia(58%) saturate(7306%) hue-rotate(329deg) brightness(93%) contrast(94%);
+}
+
+.LeftTabActive p {
+    color: #E71D60;
+}
+
+.LeftTabButtonIcon{
+    width: 25px;
+    height: 25px;
+    padding: 10px 20px;
+    filter: invert(34%) sepia(20%) saturate(725%) hue-rotate(186deg) brightness(97%) contrast(91%);
+}
+
+.LeftTabTitle{
+    font-family: Bold;
+    color: #505C7D;
+}
+
