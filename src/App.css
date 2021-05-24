@@ -1,11 +1,3 @@
-body, html {
-    overflow-y: hidden;
-}
-
-* {
-    margin: 0;
-}
-
 @font-face {
     font-family: 'Regular';
     src: url(./PierSans-Regular.otf);
@@ -14,4 +6,19 @@ body, html {
 @font-face {
     font-family: 'Bold';
     src: url(./PierSans-Bold.otf);
+}
+
+body, html {
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0;
+    font-family: Regular;
+}
+
+#app{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
 }
