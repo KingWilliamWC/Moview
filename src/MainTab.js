@@ -3,6 +3,8 @@ import React, { Component } from 'react';
 import './MainTab.css';
 
 import GenreSperatorSVG from './genre-seperator.svg';
+import PlaySVG from './play-solid.svg';
+import PlusSVG from './plus-solid.svg';
 
 class MainTab extends Component {
     constructor(props){
@@ -41,7 +43,10 @@ class MainTab extends Component {
                             <img className='seperator' alt='' src={GenreSperatorSVG}></img>
                             <p id='showcaseGenre'>Comedy</p>
                         </div>
-                        
+                        <div id='showcaseBtnContainer'>
+                            <button id='showcasePlayBtn'><img className='showcaseBtnIcon' alt='' src={PlaySVG}></img></button>
+                            <button id='showcaseAddToListBtn'><img className='showcaseBtnIcon' alt='' src={PlusSVG}></img></button>
+                        </div>
                     </div>
                 </div>
             </div>

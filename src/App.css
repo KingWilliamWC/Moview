@@ -14,11 +14,14 @@ body, html {
 
 * {
     margin: 0;
+    
+}
+
+p, h1, h2, h3, h4, h5, h6{
     font-family: Regular;
 }
 
 #app{
     display: flex;
     justify-content: space-between;
-    margin: 0;
 }

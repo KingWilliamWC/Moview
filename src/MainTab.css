@@ -1,7 +1,7 @@
 #viewContainer{
     padding-left: 50px;
     padding-right: 50px;
-    padding-top: 25px;
+    padding-top: 20px;
     flex-grow: 4;
 }
 
@@ -75,6 +75,39 @@
 
 #showcaseGenre{
     color: white;
+}
+
+#showcasePlayBtn{
+    background-color: #E71D60;
+    padding: 10px 80px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+    margin-left: 5px;
+    border-radius: 1.5px;
+}
+
+#showcaseBtnContainer{
+    margin-top: 10px;
+}
+
+#showcaseAddToListBtn{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+    margin-left: 5px;
+    border-radius: 1.5px;
+}
+
+#showcaseAddToListBtn:hover, #showcasePlayBtn:hover{
+    transform: scaleX(1.03) scaleY(1.03);
+}
+
+.showcaseBtnIcon{
+    width: 25px;
+    height: 25px;
 }
 
 .seperator{
