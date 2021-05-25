@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61fc8b73.chunk.css",
+    "main.js": "/static/js/main.20a40cd4.chunk.js",
+    "main.js.map": "/static/js/main.20a40cd4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3df105f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3df105f8.js.map",
+    "static/js/2.f87880e0.chunk.js": "/static/js/2.f87880e0.chunk.js",
+    "static/js/2.f87880e0.chunk.js.map": "/static/js/2.f87880e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.61fc8b73.chunk.css.map": "/static/css/main.61fc8b73.chunk.css.map",
+    "static/js/2.f87880e0.chunk.js.LICENSE.txt": "/static/js/2.f87880e0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/PierSans-Regular.d4fb6ec3.otf",
+    "static/media/clock-solid.407cae33.svg": "/static/media/clock-solid.407cae33.svg",
+    "static/media/discover-solid.0cc90449.svg": "/static/media/discover-solid.0cc90449.svg",
+    "static/media/genre-seperator.6997dd51.svg": "/static/media/genre-seperator.6997dd51.svg",
+    "static/media/heart-solid.70b72c45.svg": "/static/media/heart-solid.70b72c45.svg",
+    "static/media/home-solid.f09a602a.svg": "/static/media/home-solid.f09a602a.svg",
+    "static/media/play-solid.aa4e3849.svg": "/static/media/play-solid.aa4e3849.svg",
+    "static/media/plus-solid.2c74ef6a.svg": "/static/media/plus-solid.2c74ef6a.svg",
+    "static/media/sign-out-solid.c00a4b7c.svg": "/static/media/sign-out-solid.c00a4b7c.svg",
+    "static/media/user-solid.93b18c33.svg": "/static/media/user-solid.93b18c33.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df105f8.js",
+    "static/js/2.f87880e0.chunk.js",
+    "static/css/main.61fc8b73.chunk.css",
+    "static/js/main.20a40cd4.chunk.js"
+  ]
+}
